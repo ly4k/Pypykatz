@@ -1,6 +1,4 @@
-![Supported Python versions](https://img.shields.io/badge/python-3.7+-blue.svg) [![Twitter](https://img.shields.io/twitter/follow/skelsec?label=skelsec&style=social)](https://twitter.com/intent/follow?screen_name=skelsec)
-
-:triangular_flag_on_post: This is the public repository of PyPyKatz, for latest version and updates please consider supporting us through https://porchetta.industries/
+This is a modified repository of PyPyKatz. See this [blog post](https://research.ifcr.dk/pass-the-challenge-defeating-credential-guard-31a892eee22) for more information.
 
 # pypykatz
 Mimikatz implementation in pure Python. At least a part of it :)  
